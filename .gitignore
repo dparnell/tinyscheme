@@ -3,5 +3,8 @@ target
 *.iml
 *.ipr
 *.iws
-
+*.o
+*.a
 .DS_Store
+scheme
+*.so
